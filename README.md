@@ -24,9 +24,9 @@
 - **Drone Navigation System** – Working on an autonomous drone system.  
 
 ## 📬 Contact Me  
-📧 Email: chaluvaditrinaya@gmail.com(mailto:your@email.com)  
-🔗 LinkedIn:https://linkedin.com/in/NAGA SAI TRINAYA CHALUVADI  
-💻 GitHub: [github.com/NagaSaiTrinaya](https://github.com/NagaSaiTrinaya)  
+📧 Email: chaluvaditrinaya@gmail.com 
+🔗 LinkedIn:https://linkedin.com/in/NAGASAITRINAYACHALUVADI  
+💻 GitHub: [github.com/NagaSaiTrinaya]  
  
 - **Drone Navigation System** – Working on an autonomous drone system.  
 
