@@ -1,7 +1,7 @@
 # Naga Sai Trinaya Chaluvadi  
 **AI & ML Enthusiast | Vice President of Dronix Club | 10X Devs Club Member**  
 
-🚀 23rd-year B.Tech student specializing in **AI & ML** at Dhanekula Institute of Engineering and Technology.  
+🚀 3rd-year B.Tech student specializing in **AI & ML** at Dhanekula Institute of Engineering and Technology.  
 
 ## 📌 About Me  
 🔹 Passionate about Artificial Intelligence, Machine Learning, and Drones.  
