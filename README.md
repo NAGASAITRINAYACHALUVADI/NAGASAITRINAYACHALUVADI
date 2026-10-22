@@ -26,12 +26,9 @@
 ## 📬 Contact Me  
 📧 Email: chaluvaditrinaya@gmail.com 
 🔗 LinkedIn:https://linkedin.com/in/NAGASAITRINAYACHALUVADI  
-💻 GitHub: [github.com/NagaSaiTrinaya]  
+💻 GitHub:  
  
 - **Drone Navigation System** – Working on an autonomous drone system.  
 
-## 📬 Contact Me  
-📧 Email: [your@email.com](mailto:chaluvaditrinaya@gmail.com)  
-🔗 LinkedIn: [linkedin.com/in/yourname](https://www.linkedin.com/in/naga-sai-trinaya-chaluvadi-20529b331/)  
-💻 GitHub: [github.com/NagaSaiTrinaya](https://github.com/NagaSaiTrinaya)  
+
 
